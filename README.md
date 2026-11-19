@@ -1,10 +1,10 @@
 # Hi, I'm Anuvind 👋
 
-[One line: e.g. "Aspiring full-stack developer who loves building web apps with Python and Django."]
+**Python & Django developer** looking for my next role. I recently completed an internship at **Wistora IQ Solutions**, where I [one line on what you built or worked on, e.g. "built backend features and APIs with Django"].
 
-## 🔧 What I'm working on
-- **Amazon-style e-commerce store**: a Django project with products, cart, and admin ([view repo](link-to-your-repo))
-- [Another project or what you're learning]
+## 🔧 Projects
+- **[Amazon-style E-commerce Store](link-to-your-repo)**: Django app with product catalog, cart, orders, and an admin panel
+- [Project 2 name](link): [one-line description]
 
 ## 🛠️ Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -14,9 +14,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🌱 Currently learning
-[e.g. REST APIs, PostgreSQL, deployment]
+[e.g. Django REST Framework, PostgreSQL, Docker, deployment]
 
-## 📫 Reach me
-- LinkedIn: [your link]
+## 💼 Open to work
+Python / Django developer roles (remote or [your city]).
+
+## 📫 Contact
 - Email: [your email]
-- Portfolio: [your link, if any]
+- LinkedIn: [your link]
